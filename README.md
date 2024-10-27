@@ -1,7 +1,3 @@
-¡Perfecto! Aquí tienes un borrador para tu `README.md`. Este documento sigue una estructura clara para que cualquier persona que visite tu repositorio en GitHub entienda qué prácticas has realizado y cómo está organizado tu trabajo.
-
----
-
 # Prácticas de Machine Learning 🚀
 
 Este repositorio contiene una colección de ejercicios y prácticas en **Python** para afianzar conceptos fundamentales de **Machine Learning (ML)**. Cada sección cubre un aspecto clave del ciclo de vida de un proyecto de ML, desde la **preparación de los datos** hasta la **implementación de algoritmos avanzados**.
