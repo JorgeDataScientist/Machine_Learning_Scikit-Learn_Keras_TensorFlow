@@ -1,0 +1,501 @@
+Brand,Model,Year,Mileage,Fuel Type,Fuel Consumption (L/100km),Horsepower (HP),Transmission,Price ,City
+Audi,Q7,2006,260886,Diesel,9.5,213,Automatic,12063.27,Cologne
+Opel,Corsa,2015,72505,Hybrid,6.5,335,Automatic,33890.58,Berlin
+Mercedes,C-Class,2007,125356,Electric,9.9,445,Automatic,92639.12,Berlin
+Volkswagen,Polo,2009,130867,Electric,4.1,165,Automatic,88003.5,Munich
+Opel,Astra,2022,57482,Electric,5.2,145,Manual,26028.97,Hamburg
+Volkswagen,Tiguan,2011,107269,Electric,10.1,449,Automatic,15308.15,Berlin
+BMW,X3,2012,121481,Petrol,10.8,456,Automatic,44140.68,Hamburg
+BMW,5 Series,2012,251434,Petrol,11.6,368,Automatic,5986.91,Hamburg
+Porsche,Panamera,2018,157502,Electric,8.6,101,Manual,21694.91,Frankfurt
+BMW,3 Series,2022,25732,Electric,10.5,270,Manual,58172.74,Frankfurt
+Mercedes,E-Class,2008,264196,Diesel,6.6,437,Manual,96926.17,Frankfurt
+Volkswagen,Passat,2019,69449,Electric,7.5,137,Manual,21897.61,Cologne
+BMW,5 Series,2012,295610,Petrol,11.4,231,Automatic,12182.03,Berlin
+Volkswagen,Golf,2013,97941,Electric,9.9,333,Automatic,15725.01,Hamburg
+Opel,Corsa,2005,235306,Hybrid,10,74,Automatic,53162.29,Munich
+Audi,A3,2011,86129,Diesel,7.1,78,Automatic,5581.21,Frankfurt
+Volkswagen,Golf,2012,274728,Electric,11.1,454,Automatic,65411.9,Munich
+Volkswagen,Golf,2005,35558,Hybrid,7.6,111,Automatic,21605.04,Frankfurt
+Audi,Q5,2010,292415,Diesel,12,451,Manual,38185.54,Hamburg
+Porsche,Panamera,2012,25451,Petrol,9.5,215,Automatic,94527.1,Munich
+Opel,Insignia,2022,180520,Diesel,10.9,125,Automatic,96681.76,Hamburg
+Mercedes,GLA,2022,103349,Petrol,5.4,331,Manual,29456.24,Hamburg
+Opel,Insignia,2009,119078,Diesel,3.5,76,Manual,79954.02,Cologne
+Mercedes,GLE,2018,53607,Hybrid,7.6,171,Automatic,97407.64,Cologne
+Mercedes,GLA,2022,288215,Petrol,9.9,327,Automatic,18350.07,Hamburg
+Audi,A3,2015,59165,Hybrid,6.6,157,Automatic,40829.05,Cologne
+Volkswagen,Tiguan,2021,155962,Diesel,7.5,251,Automatic,12431.02,Hamburg
+Opel,Astra,2016,65845,Petrol,5.1,466,Automatic,80090.82,Hamburg
+Mercedes,E-Class,2019,294184,Hybrid,7.9,110,Manual,17642.96,Munich
+Volkswagen,Polo,2012,9076,Petrol,7.3,120,Manual,57566.52,Hamburg
+Mercedes,C-Class,2005,250318,Petrol,6.6,417,Manual,50440.5,Cologne
+Audi,A4,2010,168165,Electric,7.8,164,Manual,33959.39,Munich
+BMW,X5,2014,36757,Diesel,6,227,Automatic,81233.65,Hamburg
+Volkswagen,Golf,2007,162366,Hybrid,11.3,130,Automatic,64447.73,Munich
+Audi,Q5,2010,39390,Diesel,5.3,110,Automatic,81259.02,Munich
+Audi,Q7,2006,294449,Electric,5.3,144,Automatic,23362.07,Munich
+Volkswagen,Passat,2009,211415,Hybrid,6.9,298,Automatic,85681.2,Cologne
+BMW,X3,2011,45706,Diesel,7.9,489,Manual,56667.92,Cologne
+Opel,Insignia,2021,191494,Diesel,4,296,Manual,98885.42,Hamburg
+Mercedes,GLE,2013,191185,Petrol,8.2,188,Automatic,25669.89,Munich
+Volkswagen,Golf,2010,155007,Electric,10.3,344,Automatic,90673.66,Cologne
+BMW,X5,2023,12719,Diesel,10.2,395,Automatic,12412.04,Munich
+BMW,X3,2015,154609,Electric,10.5,153,Manual,97808.57,Berlin
+Volkswagen,Passat,2011,139858,Electric,11.3,266,Automatic,44431.78,Cologne
+BMW,X5,2020,213014,Electric,9.1,412,Manual,78689.39,Frankfurt
+Audi,A4,2013,287541,Electric,10.8,99,Manual,64913.78,Cologne
+Audi,Q7,2023,101366,Electric,6.7,265,Automatic,19073.1,Frankfurt
+BMW,3 Series,2011,230730,Electric,4.8,112,Manual,69961.24,Hamburg
+Mercedes,E-Class,2011,206806,Electric,8.6,112,Manual,89225.65,Frankfurt
+BMW,3 Series,2017,81041,Petrol,10.5,354,Automatic,92643.5,Hamburg
+Mercedes,GLE,2015,161443,Petrol,9.7,399,Automatic,58991.32,Berlin
+Opel,Corsa,2017,80577,Petrol,8.5,304,Manual,15951,Berlin
+Mercedes,GLE,2013,233266,Petrol,6.1,234,Automatic,24418.26,Cologne
+BMW,X5,2005,237395,Electric,5.8,239,Manual,42473.46,Frankfurt
+Mercedes,E-Class,2019,177807,Electric,10.2,365,Automatic,96327.48,Frankfurt
+BMW,X3,2007,18861,Electric,7.7,430,Automatic,20898.47,Hamburg
+Opel,Corsa,2013,160313,Diesel,5.1,332,Manual,21695.67,Munich
+Porsche,Macan,2019,78321,Hybrid,3.3,500,Manual,49427.89,Frankfurt
+Mercedes,GLE,2017,297121,Electric,6.3,408,Automatic,12605.58,Hamburg
+Porsche,Cayenne,2005,89359,Electric,3.5,334,Automatic,73565.28,Munich
+Porsche,Panamera,2021,279748,Hybrid,9.7,167,Manual,14451.87,Munich
+Porsche,Cayenne,2023,74243,Diesel,10.7,164,Manual,60290.44,Berlin
+Opel,Insignia,2019,260512,Hybrid,8.1,340,Manual,82216.1,Cologne
+Mercedes,E-Class,2005,87530,Electric,8,488,Automatic,64063.3,Munich
+Audi,A3,2014,268396,Electric,5,153,Manual,22492.6,Hamburg
+Volkswagen,Polo,2012,185362,Hybrid,9.9,163,Automatic,14730.13,Frankfurt
+Mercedes,C-Class,2010,147150,Petrol,8.8,343,Automatic,64295.76,Cologne
+BMW,X5,2015,242931,Diesel,11.9,481,Automatic,52943.51,Cologne
+Porsche,Cayenne,2008,84762,Electric,3.9,452,Manual,64471.32,Cologne
+Volkswagen,Tiguan,2010,46614,Diesel,5.4,442,Manual,79022.34,Cologne
+Porsche,Panamera,2015,203688,Petrol,6.9,134,Automatic,23729.79,Frankfurt
+Opel,Insignia,2008,76828,Petrol,6.2,256,Automatic,43144.86,Berlin
+BMW,3 Series,2012,111371,Hybrid,6.1,402,Manual,60134.68,Berlin
+BMW,3 Series,2006,199741,Hybrid,9.5,271,Manual,85457.2,Berlin
+Opel,Astra,2020,160554,Diesel,6,367,Automatic,7357.75,Frankfurt
+Porsche,Macan,2015,87632,Diesel,4.5,86,Automatic,64131.96,Hamburg
+Audi,Q7,2019,251082,Diesel,9.9,375,Automatic,51234.22,Munich
+BMW,5 Series,2006,47841,Hybrid,10.8,485,Automatic,77270.4,Cologne
+Opel,Corsa,2008,9099,Diesel,8.6,267,Manual,44714.87,Hamburg
+Porsche,Cayenne,2014,39453,Electric,11.4,354,Manual,28245.18,Frankfurt
+Audi,Q7,2014,154397,Hybrid,4.7,217,Automatic,59710.98,Munich
+Porsche,Panamera,2021,78987,Hybrid,11.2,295,Automatic,22622.26,Hamburg
+Opel,Insignia,2020,120151,Electric,3.7,200,Automatic,97567.99,Hamburg
+Mercedes,C-Class,2017,276998,Petrol,6.6,171,Manual,25100.58,Frankfurt
+Volkswagen,Polo,2016,22732,Electric,7.2,277,Automatic,17253.21,Munich
+Porsche,Cayenne,2022,114284,Diesel,9,427,Automatic,39106.77,Cologne
+Opel,Corsa,2008,99548,Hybrid,8.2,499,Automatic,96943.39,Hamburg
+Porsche,Panamera,2010,68827,Petrol,10.6,448,Manual,6493.54,Cologne
+Volkswagen,Passat,2021,260866,Diesel,10.7,295,Automatic,68026.56,Hamburg
+Porsche,Cayenne,2017,15184,Hybrid,4.1,120,Automatic,93202.48,Frankfurt
+Volkswagen,Polo,2010,144976,Diesel,10,94,Automatic,66954.21,Berlin
+BMW,5 Series,2006,249218,Petrol,6.5,187,Manual,21507.32,Berlin
+Mercedes,GLE,2017,253432,Electric,6.3,440,Manual,12250.16,Frankfurt
+BMW,X3,2009,142864,Diesel,4.3,70,Automatic,11218.46,Cologne
+Opel,Insignia,2013,258782,Hybrid,4,213,Automatic,9513.67,Hamburg
+Volkswagen,Tiguan,2010,111801,Electric,7.4,170,Automatic,34189.41,Berlin
+Audi,A3,2013,87314,Petrol,5.5,100,Automatic,42034.44,Frankfurt
+BMW,5 Series,2017,202797,Electric,8.2,237,Automatic,62149.21,Hamburg
+Audi,A4,2015,128108,Electric,6.7,83,Automatic,47373.84,Hamburg
+BMW,3 Series,2011,273100,Electric,11.9,269,Manual,13997.76,Berlin
+Opel,Insignia,2008,216643,Diesel,7.8,199,Manual,27849.86,Munich
+Mercedes,GLE,2021,284024,Electric,5.8,189,Manual,42529.17,Munich
+Opel,Astra,2006,14321,Hybrid,5.4,395,Manual,11770.51,Berlin
+Volkswagen,Polo,2022,170917,Petrol,3,223,Manual,33908.45,Frankfurt
+Opel,Insignia,2019,288161,Hybrid,3.9,135,Manual,86798.21,Cologne
+Porsche,Macan,2014,205233,Electric,10.7,268,Automatic,9224.08,Frankfurt
+BMW,X3,2018,131741,Diesel,11.5,385,Automatic,27031.78,Munich
+Mercedes,C-Class,2022,280208,Electric,4.7,115,Manual,49389.34,Berlin
+Audi,A3,2014,116908,Diesel,7,304,Automatic,48275.24,Munich
+Porsche,Cayenne,2015,44181,Electric,8.5,190,Automatic,67506.46,Cologne
+Porsche,Macan,2010,59485,Hybrid,9.2,230,Manual,49769.53,Frankfurt
+BMW,3 Series,2023,233671,Electric,10.4,236,Manual,88987.55,Cologne
+Porsche,Cayenne,2008,227755,Electric,4.6,328,Automatic,23725.41,Frankfurt
+Mercedes,C-Class,2018,265256,Electric,10.7,210,Manual,61183.83,Hamburg
+Porsche,Panamera,2009,259211,Electric,9.3,220,Manual,80547.06,Munich
+Opel,Insignia,2018,203281,Hybrid,11,436,Manual,57124.19,Frankfurt
+Porsche,Panamera,2011,124733,Electric,9.9,354,Automatic,59892.36,Hamburg
+BMW,5 Series,2020,239942,Electric,10.5,374,Automatic,62144.44,Cologne
+BMW,X3,2019,143647,Petrol,11.4,161,Manual,97166.19,Frankfurt
+Porsche,Macan,2023,174111,Hybrid,7.2,389,Automatic,68321.25,Hamburg
+Volkswagen,Tiguan,2021,246045,Petrol,4.1,135,Automatic,16354.74,Cologne
+Volkswagen,Golf,2006,47307,Petrol,8.3,431,Manual,67409.39,Berlin
+Mercedes,E-Class,2023,207276,Hybrid,8,264,Manual,60392.12,Berlin
+Porsche,Macan,2014,262369,Electric,8.6,424,Automatic,22224.04,Berlin
+Mercedes,C-Class,2014,229341,Electric,8.3,439,Automatic,30105.58,Berlin
+BMW,3 Series,2012,10437,Hybrid,11.5,386,Automatic,72681.17,Frankfurt
+Porsche,Panamera,2017,73433,Electric,7.3,129,Manual,64944.09,Berlin
+Volkswagen,Golf,2021,178738,Electric,3.5,113,Automatic,7626.28,Hamburg
+BMW,X5,2013,230931,Hybrid,3.5,482,Automatic,9454.34,Cologne
+Audi,Q5,2007,159700,Hybrid,3.7,144,Manual,43154.39,Frankfurt
+Opel,Astra,2008,191145,Hybrid,11,305,Automatic,53257.83,Munich
+BMW,X3,2018,293347,Petrol,6.3,280,Manual,60246.78,Hamburg
+Opel,Corsa,2021,99926,Petrol,3.5,459,Manual,69481.43,Berlin
+BMW,5 Series,2019,13292,Hybrid,11.1,197,Automatic,11252.24,Cologne
+Porsche,Cayenne,2022,270037,Hybrid,10.5,307,Automatic,18438.06,Hamburg
+Volkswagen,Passat,2014,47359,Diesel,5.5,331,Manual,57749.55,Berlin
+BMW,3 Series,2010,33691,Diesel,8,367,Manual,24308.2,Cologne
+Porsche,Cayenne,2016,127269,Petrol,5.9,162,Manual,8195.02,Hamburg
+Mercedes,GLE,2013,87280,Electric,8.4,155,Manual,27262.09,Frankfurt
+Porsche,Panamera,2006,111047,Petrol,9.1,378,Automatic,46809.33,Cologne
+Volkswagen,Polo,2017,267302,Diesel,7.2,115,Manual,59817.19,Cologne
+Opel,Insignia,2014,70986,Petrol,4.9,102,Manual,81634.86,Frankfurt
+Opel,Astra,2008,168183,Electric,4.9,331,Manual,24411.99,Munich
+BMW,3 Series,2010,209667,Diesel,6,437,Manual,99776.63,Cologne
+BMW,X5,2005,45149,Hybrid,5.1,401,Manual,99339.9,Berlin
+Porsche,Macan,2021,6221,Hybrid,4.7,155,Automatic,18776.95,Munich
+Volkswagen,Passat,2018,142241,Electric,8.8,500,Automatic,14487.3,Berlin
+Volkswagen,Passat,2020,114343,Petrol,7,163,Manual,85556.58,Frankfurt
+BMW,X5,2020,249083,Hybrid,8.5,91,Manual,93493.38,Hamburg
+Audi,Q7,2018,63602,Petrol,5.8,230,Automatic,62809.41,Cologne
+BMW,X3,2013,245817,Electric,9.8,473,Automatic,31276.76,Hamburg
+Audi,A3,2022,39992,Hybrid,6.9,380,Manual,23798.81,Hamburg
+Volkswagen,Polo,2017,68631,Electric,9.4,262,Manual,71334.54,Munich
+Volkswagen,Polo,2023,269835,Hybrid,12,74,Manual,98338.06,Hamburg
+BMW,X3,2008,253282,Hybrid,6.8,355,Manual,95511.85,Berlin
+Volkswagen,Tiguan,2015,199637,Electric,11.7,294,Automatic,98977.79,Frankfurt
+Porsche,Panamera,2013,273157,Electric,7.3,267,Manual,94733.35,Hamburg
+Mercedes,E-Class,2007,14163,Hybrid,3.7,147,Automatic,93482.13,Cologne
+Porsche,Panamera,2010,130058,Hybrid,6,257,Automatic,23584.19,Cologne
+Opel,Astra,2023,278540,Electric,6.4,79,Automatic,5395.3,Frankfurt
+Mercedes,C-Class,2007,126656,Hybrid,10.6,70,Manual,37456.72,Cologne
+Volkswagen,Polo,2020,87505,Diesel,10.5,357,Automatic,25343.27,Hamburg
+Mercedes,E-Class,2020,244261,Petrol,10,434,Automatic,39466.97,Cologne
+Mercedes,GLA,2006,191519,Hybrid,6.7,241,Manual,15221.23,Berlin
+Porsche,Cayenne,2007,207921,Petrol,12,309,Automatic,58712.65,Frankfurt
+BMW,3 Series,2021,298026,Hybrid,10.4,136,Manual,39084.72,Munich
+Volkswagen,Tiguan,2021,299573,Electric,5.9,308,Automatic,68719.82,Munich
+Opel,Corsa,2017,296420,Diesel,7.8,436,Manual,5606.74,Frankfurt
+BMW,X5,2013,212247,Petrol,10.4,230,Manual,67408,Berlin
+Porsche,Cayenne,2007,141305,Diesel,5.5,393,Manual,30502.69,Hamburg
+BMW,3 Series,2011,101710,Diesel,5.3,122,Manual,93393.86,Munich
+Volkswagen,Passat,2014,230727,Hybrid,5.1,353,Manual,10257.01,Berlin
+Audi,A4,2015,259313,Hybrid,11.9,209,Automatic,41826.2,Berlin
+Opel,Astra,2009,77252,Diesel,8.6,207,Manual,82915.93,Hamburg
+Audi,Q5,2013,128554,Petrol,3.2,234,Manual,27994.7,Berlin
+Mercedes,GLE,2015,275719,Hybrid,3.4,300,Manual,66245.25,Hamburg
+Volkswagen,Tiguan,2012,72882,Petrol,8.1,426,Manual,60053.64,Berlin
+Mercedes,GLA,2020,63164,Electric,11.4,398,Manual,23319.44,Berlin
+Opel,Astra,2009,272998,Electric,10.7,240,Manual,65440.79,Hamburg
+Opel,Corsa,2016,80695,Petrol,10.6,312,Manual,59778.37,Munich
+Mercedes,GLA,2016,67222,Diesel,4.7,220,Manual,33754.27,Cologne
+BMW,5 Series,2007,64025,Petrol,11.3,323,Manual,7313.72,Munich
+Porsche,Cayenne,2020,269559,Petrol,8.5,271,Automatic,8763,Hamburg
+Opel,Insignia,2007,265274,Petrol,11.4,222,Manual,74488.28,Hamburg
+Volkswagen,Golf,2018,223481,Petrol,11.1,222,Automatic,87213.38,Hamburg
+BMW,5 Series,2018,258142,Petrol,8.3,336,Manual,64580.79,Frankfurt
+Volkswagen,Tiguan,2007,17457,Petrol,6.7,488,Automatic,40194.66,Berlin
+Audi,A3,2018,251464,Electric,3,294,Manual,95562.79,Hamburg
+Porsche,Cayenne,2017,288241,Hybrid,5,248,Manual,22322.86,Frankfurt
+Mercedes,GLA,2021,298078,Diesel,8.8,266,Automatic,54686.72,Frankfurt
+Audi,A3,2007,118711,Electric,5,499,Automatic,17193.24,Munich
+Mercedes,GLA,2013,193187,Hybrid,10.1,383,Manual,69154.03,Cologne
+Volkswagen,Tiguan,2017,39037,Electric,5.5,130,Manual,92875.45,Munich
+Porsche,Macan,2008,131157,Electric,5.7,268,Automatic,61750.01,Cologne
+Volkswagen,Polo,2006,271765,Electric,5.5,336,Automatic,10495.88,Hamburg
+BMW,5 Series,2012,281688,Petrol,3.3,249,Automatic,11885.06,Hamburg
+BMW,3 Series,2016,42362,Hybrid,11.2,256,Automatic,19324.13,Frankfurt
+Opel,Corsa,2021,227414,Electric,3.5,80,Manual,8323.98,Cologne
+Audi,A4,2005,293319,Diesel,4,200,Manual,43561.13,Berlin
+BMW,5 Series,2016,114598,Diesel,4.8,242,Automatic,63850.85,Hamburg
+Audi,A4,2011,202328,Electric,3.3,385,Manual,99612.8,Munich
+Mercedes,C-Class,2022,281787,Diesel,10.3,144,Manual,86472.46,Cologne
+Volkswagen,Tiguan,2010,22105,Petrol,7.2,384,Automatic,72101.87,Frankfurt
+Opel,Corsa,2007,187490,Hybrid,7,189,Manual,92399.5,Berlin
+Volkswagen,Golf,2015,202500,Electric,10.5,166,Automatic,6465.92,Berlin
+Mercedes,GLE,2018,170760,Electric,11.4,432,Automatic,52306.22,Cologne
+BMW,3 Series,2017,37153,Diesel,6,307,Automatic,29645.77,Hamburg
+Mercedes,E-Class,2018,277922,Diesel,5.8,235,Manual,71950.8,Hamburg
+Audi,Q5,2014,226416,Electric,11.8,189,Automatic,11698.48,Berlin
+Audi,Q7,2023,146989,Petrol,3.9,391,Manual,29313.53,Berlin
+Porsche,Macan,2009,215632,Electric,4,369,Automatic,82846.02,Cologne
+Porsche,Panamera,2021,141246,Electric,5.8,457,Manual,63851.32,Hamburg
+Opel,Corsa,2018,35740,Hybrid,9.6,359,Automatic,43999.41,Frankfurt
+Volkswagen,Tiguan,2015,276205,Petrol,4.4,323,Manual,87091.73,Berlin
+BMW,3 Series,2012,253875,Diesel,10,323,Manual,96051.23,Berlin
+Audi,Q7,2005,171702,Electric,6.2,268,Manual,91616.06,Munich
+Audi,Q7,2017,184906,Diesel,5.6,432,Manual,63804.59,Hamburg
+Opel,Corsa,2020,115150,Diesel,4.1,436,Manual,67236.99,Frankfurt
+BMW,X3,2009,270154,Diesel,3.6,232,Automatic,70081.78,Cologne
+Volkswagen,Tiguan,2016,196748,Electric,9.8,356,Manual,57088.37,Berlin
+Opel,Insignia,2023,271245,Hybrid,10.1,334,Manual,64672.39,Cologne
+Audi,Q7,2019,289428,Electric,5.9,394,Manual,57825.38,Frankfurt
+Mercedes,C-Class,2008,103652,Petrol,5.7,464,Manual,36282.23,Frankfurt
+Porsche,Panamera,2009,62416,Diesel,11.1,366,Automatic,53136.2,Cologne
+Opel,Insignia,2010,198211,Hybrid,8.8,332,Automatic,81351.08,Frankfurt
+Volkswagen,Polo,2018,258765,Diesel,5.2,136,Automatic,81094.9,Munich
+Audi,A4,2008,162449,Hybrid,3.9,109,Automatic,85714.85,Frankfurt
+Audi,A4,2010,207278,Hybrid,11.7,163,Manual,11463.14,Berlin
+Opel,Insignia,2009,96784,Diesel,9.8,464,Manual,80380.85,Cologne
+Audi,A4,2019,152969,Diesel,10.1,485,Automatic,64408.25,Berlin
+BMW,3 Series,2016,140344,Petrol,3.1,372,Automatic,26829.26,Frankfurt
+Opel,Astra,2019,69055,Electric,4,446,Manual,78195.01,Berlin
+Audi,A4,2021,242055,Petrol,7.3,261,Automatic,19994.88,Cologne
+Porsche,Panamera,2007,187427,Electric,8.6,313,Manual,58001.01,Munich
+Mercedes,E-Class,2016,58012,Electric,3.4,361,Automatic,26091.27,Cologne
+Volkswagen,Polo,2011,31356,Petrol,4.4,330,Manual,75360.15,Frankfurt
+Volkswagen,Tiguan,2018,95845,Diesel,6.2,274,Automatic,64878.64,Hamburg
+Mercedes,C-Class,2005,294457,Diesel,3.2,177,Automatic,48658.64,Munich
+Opel,Astra,2022,40827,Hybrid,9.7,172,Automatic,92934.06,Frankfurt
+BMW,3 Series,2013,172323,Petrol,10.4,221,Automatic,73192.27,Cologne
+Opel,Corsa,2014,208216,Petrol,4.3,132,Automatic,92844.11,Berlin
+Volkswagen,Golf,2021,55648,Diesel,11,75,Manual,79340.09,Munich
+Audi,A4,2019,177310,Petrol,8.7,169,Automatic,28214.55,Cologne
+Mercedes,C-Class,2021,201297,Petrol,5.2,387,Automatic,75127.58,Frankfurt
+Audi,A3,2009,194057,Diesel,6.3,447,Manual,75007.7,Cologne
+BMW,X5,2012,238845,Electric,5.3,315,Manual,77122.38,Cologne
+Mercedes,GLA,2007,24139,Electric,6.1,417,Automatic,97843.26,Berlin
+Volkswagen,Tiguan,2023,217430,Electric,7.5,418,Manual,30628.84,Hamburg
+BMW,X5,2023,25954,Diesel,9.2,401,Manual,57332.14,Hamburg
+Mercedes,GLA,2006,30496,Diesel,9.1,228,Automatic,78476.48,Frankfurt
+Mercedes,GLE,2022,136867,Petrol,7.3,255,Automatic,57918.46,Frankfurt
+Opel,Corsa,2021,149054,Hybrid,7.3,208,Manual,29231.76,Berlin
+BMW,5 Series,2020,163070,Hybrid,11.1,397,Automatic,12977.79,Cologne
+Opel,Insignia,2007,70596,Diesel,10.8,304,Automatic,34291.98,Berlin
+Porsche,Cayenne,2019,273672,Hybrid,9.6,475,Automatic,93920.16,Munich
+Volkswagen,Golf,2016,7663,Electric,7.3,492,Manual,73817.19,Frankfurt
+Volkswagen,Golf,2023,49307,Electric,12,321,Manual,45532.46,Frankfurt
+Opel,Astra,2012,48831,Hybrid,10.6,213,Manual,53619.49,Cologne
+Mercedes,GLE,2013,37168,Petrol,11.7,141,Manual,68381.86,Hamburg
+Mercedes,GLE,2017,299043,Diesel,5.5,232,Manual,57636,Hamburg
+Opel,Astra,2021,139739,Diesel,5.8,315,Manual,5209.73,Frankfurt
+Mercedes,C-Class,2009,211384,Hybrid,4,278,Manual,64932.51,Hamburg
+Mercedes,C-Class,2019,111358,Diesel,9.8,412,Automatic,60065.25,Cologne
+BMW,3 Series,2010,236282,Petrol,3.4,345,Manual,13651.64,Munich
+Mercedes,GLE,2017,95945,Petrol,7.9,334,Manual,26883.75,Cologne
+Volkswagen,Polo,2013,9390,Electric,6.5,494,Manual,86899.93,Hamburg
+Mercedes,GLA,2006,205905,Petrol,10.7,289,Automatic,81676.6,Frankfurt
+Volkswagen,Golf,2017,147167,Electric,8.4,146,Manual,6161.55,Frankfurt
+Mercedes,C-Class,2020,155587,Petrol,6,230,Manual,91993.76,Cologne
+Volkswagen,Tiguan,2021,275472,Diesel,5.3,325,Manual,63230.23,Cologne
+Mercedes,GLE,2014,136074,Petrol,9,426,Automatic,12162.16,Frankfurt
+Volkswagen,Tiguan,2005,209527,Electric,8.4,443,Manual,36407.35,Munich
+Porsche,Cayenne,2021,202910,Hybrid,6.7,436,Automatic,30705.55,Frankfurt
+Opel,Astra,2009,50509,Petrol,4.3,473,Manual,42219.81,Munich
+Mercedes,GLA,2021,15581,Diesel,10.2,99,Manual,34797.29,Frankfurt
+BMW,X3,2011,273701,Petrol,6.9,169,Manual,12610.22,Frankfurt
+Opel,Corsa,2020,292159,Diesel,4.9,249,Manual,28476.45,Munich
+Mercedes,C-Class,2008,211018,Hybrid,4,345,Manual,74339.62,Munich
+Mercedes,GLE,2017,150217,Hybrid,3.3,169,Automatic,77519.37,Hamburg
+Porsche,Cayenne,2012,267104,Hybrid,3.5,119,Automatic,72849.09,Berlin
+Porsche,Macan,2019,135629,Petrol,4.5,447,Automatic,99402.03,Frankfurt
+Opel,Astra,2006,201795,Petrol,9.1,189,Automatic,13100.89,Cologne
+Porsche,Panamera,2010,298820,Electric,10.8,82,Automatic,10204.96,Munich
+Volkswagen,Polo,2011,183342,Diesel,10.5,362,Manual,22508.3,Hamburg
+Audi,A3,2014,186678,Diesel,4.4,413,Manual,34365.71,Hamburg
+Opel,Astra,2013,228227,Hybrid,9,471,Automatic,89111.06,Berlin
+Porsche,Panamera,2020,207500,Electric,9.6,206,Manual,38804.68,Frankfurt
+Mercedes,C-Class,2018,254578,Electric,4.8,85,Automatic,17891.94,Cologne
+Volkswagen,Passat,2018,88338,Petrol,11.9,249,Automatic,96296.1,Frankfurt
+BMW,X3,2022,114326,Petrol,9.6,359,Manual,59442.06,Munich
+BMW,X3,2019,282043,Petrol,10.5,248,Automatic,36430.2,Berlin
+Volkswagen,Tiguan,2011,230563,Petrol,8.8,334,Manual,38532.16,Hamburg
+Opel,Corsa,2023,268987,Hybrid,6.7,156,Manual,93122.11,Cologne
+Volkswagen,Polo,2021,249830,Petrol,10.9,427,Automatic,8698.81,Berlin
+Mercedes,GLE,2012,273799,Petrol,7.5,125,Manual,67304.73,Frankfurt
+Mercedes,C-Class,2017,106369,Hybrid,9.1,338,Manual,41239.29,Cologne
+Porsche,Cayenne,2023,102363,Hybrid,10.6,412,Automatic,40208.51,Cologne
+Porsche,Cayenne,2011,141589,Electric,9.1,88,Automatic,21819.91,Munich
+Porsche,Macan,2022,201934,Petrol,4.3,121,Manual,58019.52,Munich
+Audi,Q5,2006,142509,Petrol,10.2,290,Automatic,10577.84,Berlin
+BMW,X5,2011,229829,Electric,8.1,319,Manual,40553.56,Cologne
+BMW,X5,2022,106221,Hybrid,4.9,195,Manual,6781.89,Berlin
+Volkswagen,Passat,2014,271484,Electric,11.4,390,Manual,21115.5,Berlin
+BMW,X3,2013,243761,Hybrid,8.1,494,Automatic,32177.81,Frankfurt
+Volkswagen,Polo,2023,51385,Petrol,7.6,285,Automatic,90277.67,Frankfurt
+Mercedes,E-Class,2009,152193,Electric,5.7,140,Automatic,8597.11,Berlin
+Porsche,Panamera,2010,256023,Electric,3.9,329,Manual,64146.83,Cologne
+Audi,A4,2017,20815,Petrol,9.9,74,Automatic,94366.09,Cologne
+Volkswagen,Tiguan,2006,241278,Electric,3.1,144,Manual,66554.61,Cologne
+Audi,A3,2018,209691,Petrol,10.3,377,Automatic,77891.36,Hamburg
+Volkswagen,Passat,2016,115354,Hybrid,8.4,258,Automatic,24568.58,Hamburg
+Porsche,Cayenne,2019,220925,Hybrid,12,113,Manual,25624.77,Munich
+Audi,A4,2023,45000,Hybrid,7.7,75,Automatic,61868.26,Munich
+Porsche,Cayenne,2008,74063,Hybrid,3,299,Automatic,28437.37,Munich
+Porsche,Macan,2014,67412,Diesel,8.3,319,Manual,18515.37,Frankfurt
+Opel,Insignia,2012,232720,Diesel,11.1,266,Automatic,5652.81,Frankfurt
+Volkswagen,Polo,2019,59249,Diesel,10.8,332,Manual,92642.39,Berlin
+Porsche,Cayenne,2008,32668,Petrol,3.9,432,Automatic,33109.41,Cologne
+Mercedes,GLA,2008,196510,Electric,8.1,184,Manual,69637.43,Frankfurt
+BMW,5 Series,2005,167545,Petrol,8.1,474,Automatic,5560.13,Frankfurt
+BMW,3 Series,2007,203660,Electric,6.1,352,Automatic,79572.07,Berlin
+Porsche,Cayenne,2021,106004,Hybrid,4,417,Manual,7011.92,Cologne
+BMW,3 Series,2009,203807,Hybrid,6.9,399,Automatic,97576.18,Berlin
+BMW,3 Series,2020,54423,Petrol,4,133,Automatic,93746.84,Munich
+Opel,Insignia,2007,131356,Petrol,9.5,215,Automatic,51285.74,Hamburg
+Porsche,Cayenne,2006,80101,Hybrid,10.3,464,Manual,8171.48,Frankfurt
+BMW,3 Series,2021,227021,Diesel,10,461,Manual,23672,Frankfurt
+BMW,5 Series,2015,252741,Hybrid,3,361,Manual,86140.59,Cologne
+Mercedes,GLA,2009,268967,Diesel,4.9,174,Automatic,70380.06,Hamburg
+Volkswagen,Golf,2017,71523,Petrol,6.7,81,Manual,95065.77,Berlin
+Audi,Q5,2010,199909,Petrol,11.9,105,Automatic,7272.54,Hamburg
+Audi,A3,2010,195250,Electric,5.6,195,Manual,85883.76,Cologne
+Opel,Astra,2007,27350,Hybrid,3.8,306,Automatic,27264.03,Cologne
+Porsche,Macan,2023,29924,Petrol,6.9,420,Manual,27066.01,Berlin
+BMW,5 Series,2023,206105,Diesel,9.9,213,Manual,85988.3,Cologne
+BMW,X5,2017,11393,Electric,5.9,175,Automatic,31920.05,Hamburg
+BMW,X5,2006,206137,Hybrid,7.6,101,Automatic,28052.72,Hamburg
+Mercedes,E-Class,2006,116760,Diesel,4.9,286,Automatic,63058.74,Hamburg
+Porsche,Cayenne,2013,163451,Diesel,5,341,Manual,36392.57,Munich
+Audi,A3,2023,290585,Diesel,3.3,284,Manual,63596.1,Munich
+Volkswagen,Tiguan,2009,76643,Hybrid,10.5,175,Manual,8524.57,Cologne
+Audi,Q5,2013,56538,Hybrid,6.5,134,Manual,35296.96,Frankfurt
+Opel,Corsa,2006,96629,Petrol,7.5,412,Automatic,67860.84,Munich
+Opel,Corsa,2006,153668,Electric,5.6,210,Automatic,60826.2,Munich
+Audi,A4,2015,251582,Petrol,8.5,363,Manual,43000.39,Frankfurt
+Audi,A3,2010,195586,Hybrid,10.3,324,Automatic,53570.87,Frankfurt
+Mercedes,GLA,2020,97662,Petrol,10.7,407,Manual,71580.79,Munich
+Opel,Insignia,2007,218023,Petrol,9.5,301,Manual,88628.51,Frankfurt
+Opel,Insignia,2006,120312,Petrol,3.4,204,Manual,96698.01,Frankfurt
+Opel,Corsa,2007,67241,Petrol,9.2,78,Manual,82177.89,Hamburg
+BMW,3 Series,2011,184151,Electric,9.1,279,Automatic,35547.29,Frankfurt
+Porsche,Macan,2013,119095,Electric,8.5,246,Manual,31925.96,Berlin
+Volkswagen,Tiguan,2018,262855,Diesel,4.2,462,Automatic,70950.53,Cologne
+BMW,3 Series,2005,97809,Electric,10,369,Manual,85205.66,Berlin
+BMW,X3,2021,125786,Diesel,10.4,240,Automatic,64968.19,Berlin
+Volkswagen,Tiguan,2011,218358,Electric,3.9,346,Automatic,67033.95,Cologne
+Audi,Q7,2021,188099,Diesel,3.2,324,Manual,55437.8,Berlin
+Volkswagen,Tiguan,2009,161460,Petrol,3.9,422,Automatic,25237.06,Frankfurt
+Opel,Astra,2015,134642,Petrol,3.2,169,Manual,17178.7,Munich
+Mercedes,GLA,2014,266558,Petrol,10.1,207,Manual,43771.02,Munich
+Volkswagen,Polo,2017,74333,Electric,11.7,180,Automatic,54905.58,Munich
+Opel,Corsa,2014,238147,Electric,3.2,108,Automatic,12255.45,Hamburg
+Porsche,Cayenne,2023,178594,Hybrid,8.8,275,Manual,51399.76,Berlin
+Volkswagen,Golf,2021,89471,Hybrid,10.8,321,Automatic,36514.68,Cologne
+BMW,3 Series,2005,231117,Diesel,9.3,158,Automatic,72763.64,Cologne
+Audi,Q5,2021,171278,Electric,4.2,80,Automatic,82583.56,Cologne
+Porsche,Macan,2016,233412,Electric,9.1,304,Automatic,29755.73,Cologne
+Mercedes,E-Class,2008,5667,Electric,5.3,141,Manual,70217.18,Munich
+Mercedes,E-Class,2022,117782,Petrol,7.6,429,Automatic,15004.91,Frankfurt
+Volkswagen,Polo,2020,197922,Diesel,9.1,314,Manual,33509.1,Berlin
+Audi,A4,2007,53798,Hybrid,6.8,449,Automatic,74718.43,Munich
+Volkswagen,Passat,2006,100637,Diesel,3.9,364,Automatic,33662.34,Frankfurt
+Opel,Astra,2008,158279,Electric,8.7,403,Automatic,99797.19,Frankfurt
+Volkswagen,Tiguan,2007,39710,Diesel,11.8,111,Automatic,28006.48,Hamburg
+Volkswagen,Tiguan,2023,253893,Diesel,5.6,326,Automatic,32107.66,Cologne
+Volkswagen,Polo,2022,109627,Electric,10.7,332,Automatic,31419.14,Hamburg
+Opel,Insignia,2009,258615,Petrol,10.7,459,Automatic,20070.09,Frankfurt
+Audi,A4,2011,36318,Petrol,9.3,252,Manual,67988.07,Hamburg
+BMW,X3,2018,103633,Electric,9.1,455,Automatic,30617.35,Frankfurt
+Opel,Astra,2014,70068,Diesel,5,414,Manual,21186.46,Frankfurt
+Mercedes,C-Class,2017,277045,Petrol,10.1,197,Manual,78485.97,Munich
+Audi,A4,2009,99930,Diesel,8.4,346,Automatic,27299.27,Hamburg
+Mercedes,GLA,2023,250302,Diesel,9.3,250,Manual,18284.62,Hamburg
+Volkswagen,Polo,2017,98249,Petrol,3.3,265,Manual,66000.78,Berlin
+Porsche,Macan,2019,13062,Electric,11.1,239,Manual,36363.08,Munich
+Audi,Q5,2015,34955,Petrol,3.3,415,Manual,32122.6,Frankfurt
+Mercedes,C-Class,2011,145393,Petrol,5.1,398,Manual,18075.48,Frankfurt
+Mercedes,E-Class,2010,251788,Electric,3.3,433,Manual,63513.77,Hamburg
+BMW,5 Series,2016,154542,Diesel,10,413,Manual,70949.7,Cologne
+Mercedes,C-Class,2013,226023,Hybrid,5.7,126,Manual,77046.87,Frankfurt
+Opel,Astra,2022,22114,Diesel,3.5,455,Manual,33445.25,Berlin
+Volkswagen,Polo,2013,84481,Hybrid,8.8,239,Automatic,55329.27,Frankfurt
+Opel,Insignia,2018,196463,Hybrid,3,284,Automatic,28763.73,Munich
+Opel,Corsa,2021,150855,Electric,3.8,186,Automatic,54857.02,Munich
+Porsche,Panamera,2007,139784,Petrol,6.2,312,Manual,48689.1,Berlin
+Volkswagen,Tiguan,2006,208901,Electric,6.4,427,Manual,31914.77,Cologne
+Porsche,Panamera,2013,125373,Hybrid,8.7,175,Manual,70278.94,Munich
+Mercedes,E-Class,2012,202662,Hybrid,11.5,417,Manual,88094.05,Munich
+Opel,Astra,2005,15755,Diesel,10,277,Manual,37903.23,Munich
+Audi,Q5,2007,191707,Petrol,11.3,213,Manual,5308.85,Munich
+Porsche,Cayenne,2022,187271,Diesel,9.2,436,Manual,99981.48,Hamburg
+BMW,3 Series,2009,173878,Petrol,10,491,Manual,77972.66,Frankfurt
+Audi,Q7,2015,238843,Electric,10.8,141,Automatic,52857.43,Hamburg
+Volkswagen,Polo,2021,249429,Hybrid,4.6,395,Manual,95399.43,Berlin
+BMW,5 Series,2009,285497,Hybrid,3,397,Automatic,21975.86,Cologne
+Volkswagen,Passat,2007,196208,Diesel,7.4,133,Manual,34327.76,Berlin
+Volkswagen,Tiguan,2016,207105,Electric,3.3,144,Automatic,75344.81,Berlin
+BMW,3 Series,2015,263448,Petrol,11.4,236,Manual,17697.4,Cologne
+Audi,Q7,2005,269970,Diesel,8,174,Automatic,62886.21,Munich
+Volkswagen,Polo,2011,132999,Electric,6.9,374,Automatic,13057.16,Hamburg
+BMW,5 Series,2018,261788,Diesel,9.6,240,Automatic,54091.03,Cologne
+Audi,A4,2015,133649,Hybrid,11.4,216,Automatic,46260.65,Hamburg
+Opel,Corsa,2017,120420,Diesel,10.4,221,Automatic,74410.39,Munich
+Porsche,Panamera,2017,189981,Hybrid,3,86,Automatic,32884.33,Hamburg
+Porsche,Cayenne,2006,231588,Hybrid,10.4,257,Manual,59414.36,Munich
+Audi,A4,2007,289146,Hybrid,8.6,303,Automatic,56335.89,Hamburg
+Opel,Insignia,2023,226419,Petrol,8.2,119,Automatic,21561.46,Frankfurt
+Opel,Astra,2008,204940,Diesel,4.9,264,Manual,22696.22,Berlin
+Mercedes,C-Class,2019,86471,Petrol,5.8,128,Manual,19395.54,Munich
+Volkswagen,Passat,2019,186795,Hybrid,11.6,350,Automatic,87546.89,Munich
+Volkswagen,Passat,2022,119656,Hybrid,6.9,431,Manual,57228.13,Hamburg
+Porsche,Panamera,2010,112407,Diesel,7.9,203,Manual,24353.36,Cologne
+Volkswagen,Polo,2020,25610,Diesel,3.1,282,Automatic,36229.05,Munich
+Porsche,Cayenne,2020,252242,Petrol,4.4,222,Automatic,16184.4,Berlin
+Mercedes,E-Class,2012,136390,Petrol,5,457,Manual,19352.23,Berlin
+Volkswagen,Passat,2019,178423,Petrol,8.9,347,Automatic,67983.12,Berlin
+BMW,5 Series,2017,262179,Diesel,9,417,Manual,8584.06,Frankfurt
+Porsche,Cayenne,2009,24011,Diesel,11.3,369,Manual,45729.68,Munich
+Volkswagen,Tiguan,2017,33330,Electric,4.5,118,Automatic,16999.59,Munich
+Opel,Corsa,2009,24161,Petrol,10.1,276,Automatic,27817.14,Frankfurt
+Mercedes,C-Class,2023,80174,Hybrid,5.2,299,Manual,17635.59,Berlin
+Opel,Astra,2023,43262,Petrol,10.6,77,Manual,93684.23,Frankfurt
+Mercedes,C-Class,2006,243384,Hybrid,5.3,466,Manual,45660.41,Berlin
+Audi,Q5,2005,84171,Diesel,8.3,80,Manual,98550.59,Frankfurt
+Opel,Insignia,2017,48877,Diesel,8.3,113,Automatic,15289.92,Munich
+Porsche,Macan,2007,102472,Hybrid,6.7,481,Manual,92458.9,Frankfurt
+Volkswagen,Tiguan,2018,288059,Petrol,10,322,Automatic,85375.56,Munich
+Mercedes,E-Class,2012,21794,Petrol,7.6,127,Automatic,72316.11,Cologne
+BMW,X3,2005,265336,Electric,11,473,Automatic,44997.49,Frankfurt
+Mercedes,C-Class,2010,222970,Diesel,3.6,75,Automatic,83933.35,Frankfurt
+Opel,Insignia,2019,196387,Petrol,11,466,Manual,35623.18,Munich
+Volkswagen,Golf,2021,127125,Hybrid,7.9,287,Manual,91834.03,Hamburg
+Audi,A4,2014,61668,Diesel,11.2,99,Manual,90810.25,Berlin
+Opel,Corsa,2018,59288,Diesel,4.6,432,Manual,85858.3,Hamburg
+Opel,Corsa,2014,205374,Petrol,9.8,220,Manual,24497.99,Cologne
+Audi,Q7,2012,95057,Hybrid,9,391,Automatic,97089.04,Hamburg
+Mercedes,E-Class,2010,27992,Petrol,8.5,360,Manual,46061.59,Cologne
+Audi,Q5,2005,247093,Petrol,6.9,445,Manual,57365.41,Berlin
+Audi,A3,2008,39852,Hybrid,7.1,440,Automatic,7316.45,Frankfurt
+Mercedes,GLE,2019,65055,Diesel,4.1,75,Manual,55839.6,Berlin
+Opel,Insignia,2005,293862,Electric,3,468,Automatic,81309.72,Berlin
+Opel,Astra,2006,251958,Electric,11.3,371,Automatic,34330.31,Hamburg
+Porsche,Macan,2016,176803,Petrol,9,236,Automatic,52065.96,Berlin
+Volkswagen,Passat,2009,100141,Petrol,3.7,273,Manual,8040.74,Munich
+Opel,Astra,2018,131142,Hybrid,4.7,199,Manual,63171.82,Frankfurt
+Porsche,Macan,2010,199768,Diesel,9.7,73,Automatic,52254.3,Munich
+Porsche,Macan,2012,199987,Hybrid,6.4,360,Manual,90205.23,Berlin
+Mercedes,C-Class,2014,97763,Diesel,6.6,148,Manual,22432.76,Munich
+BMW,X5,2014,223187,Hybrid,9,130,Automatic,45820.54,Berlin
+Mercedes,GLE,2020,93122,Hybrid,11.5,316,Manual,13874.19,Frankfurt
+BMW,X5,2017,281402,Hybrid,10.9,131,Manual,94026.33,Hamburg
+Mercedes,C-Class,2023,120975,Diesel,6.4,270,Manual,98094.28,Hamburg
+Mercedes,GLE,2021,120512,Petrol,4.6,202,Manual,66778.06,Berlin
+BMW,X3,2020,52270,Hybrid,9.7,219,Manual,20518.97,Berlin
+Porsche,Cayenne,2011,274147,Petrol,6.7,281,Manual,71395.31,Frankfurt
+Volkswagen,Tiguan,2018,113281,Diesel,3.2,441,Manual,82973.37,Hamburg
+Opel,Insignia,2019,49148,Petrol,6.7,436,Automatic,21077.79,Munich
+Volkswagen,Tiguan,2009,211299,Diesel,8.9,310,Automatic,78932.12,Hamburg
+Opel,Corsa,2006,132322,Diesel,6.6,402,Manual,18449.46,Berlin
+Porsche,Macan,2019,100449,Petrol,3.3,85,Automatic,38485.63,Berlin
+Volkswagen,Golf,2016,29803,Hybrid,9.1,256,Manual,89027.02,Berlin
+Volkswagen,Golf,2013,276744,Hybrid,11.7,207,Manual,86823.6,Munich
+Opel,Astra,2022,11410,Petrol,7.2,265,Manual,34550.45,Munich
+Mercedes,GLE,2021,229458,Hybrid,6.7,138,Manual,84807.83,Cologne
+Opel,Astra,2011,61103,Hybrid,4.2,170,Automatic,72689.48,Frankfurt
+BMW,5 Series,2015,188253,Petrol,10.5,259,Manual,66601.94,Munich
+Volkswagen,Passat,2005,189689,Electric,9.8,182,Automatic,9096.78,Munich
+Opel,Astra,2019,31553,Diesel,10.3,405,Automatic,75311.65,Cologne
+Volkswagen,Golf,2018,81304,Electric,11.4,79,Automatic,92833.4,Cologne
+Mercedes,E-Class,2023,277075,Petrol,5.7,203,Automatic,19228.88,Cologne
+Opel,Astra,2008,235759,Hybrid,7.9,329,Manual,90857.17,Munich
+Mercedes,GLE,2018,129767,Electric,3.6,93,Automatic,87604.04,Hamburg
+Mercedes,C-Class,2020,138376,Petrol,9.8,252,Manual,20067.42,Frankfurt
+Porsche,Macan,2023,232351,Hybrid,4,146,Manual,6156.59,Frankfurt
+Opel,Corsa,2020,110136,Petrol,8.3,367,Manual,37362.3,Berlin
+Porsche,Cayenne,2017,126231,Diesel,4.4,305,Automatic,83973.22,Cologne
+Audi,Q7,2019,173925,Hybrid,8.1,183,Automatic,73097.14,Frankfurt
+BMW,X5,2012,189358,Hybrid,9,79,Manual,22190.79,Berlin
+Mercedes,C-Class,2019,290152,Electric,10.4,362,Manual,52927.62,Berlin
+Volkswagen,Tiguan,2010,72376,Hybrid,10.5,452,Automatic,71168.65,Munich
+Mercedes,GLE,2015,240288,Petrol,11.8,446,Manual,5869.74,Cologne
+Volkswagen,Passat,2012,6150,Petrol,10.6,471,Manual,71462.4,Berlin
+BMW,3 Series,2012,250743,Petrol,8.7,447,Automatic,86231.52,Berlin
+Mercedes,E-Class,2018,252193,Petrol,6.9,374,Manual,98251.37,Berlin
+Porsche,Panamera,2014,293538,Hybrid,10.6,378,Manual,12729.33,Cologne
+Volkswagen,Tiguan,2022,116092,Hybrid,8,76,Manual,88718.55,Munich
+Mercedes,GLA,2018,107863,Electric,9.8,284,Automatic,28997.99,Frankfurt
+Audi,Q7,2022,236821,Electric,9.5,98,Manual,37530.18,Cologne
+Porsche,Macan,2014,81406,Petrol,11.3,330,Manual,37858.01,Frankfurt
+Porsche,Panamera,2018,276428,Petrol,6.8,228,Manual,76041.75,Hamburg
