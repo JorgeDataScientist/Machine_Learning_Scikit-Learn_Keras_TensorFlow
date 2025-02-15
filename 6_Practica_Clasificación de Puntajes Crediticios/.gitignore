@@ -5,10 +5,10 @@ data/
 __pycache__/
 *.pyc
 
+# Ignorar archivos específicos y carpetas generadas por el entorno virtual
 Guia_Desarrollo.MD
-
 Scripts/
 Lib/
 Include/
 pyvenv.cfg
-share
+share/
