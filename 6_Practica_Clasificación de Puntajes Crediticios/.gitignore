@@ -1,0 +1,8 @@
+# Ignorar la carpeta data
+data/
+
+# Ignorar archivos .pyc y carpetas __pycache__
+__pycache__/
+*.pyc
+
+Guia_Desarrollo.MD
