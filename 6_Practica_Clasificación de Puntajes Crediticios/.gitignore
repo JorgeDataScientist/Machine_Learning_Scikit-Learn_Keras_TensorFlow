@@ -6,3 +6,9 @@ __pycache__/
 *.pyc
 
 Guia_Desarrollo.MD
+
+Scripts/
+Lib/
+Include/
+pyvenv.cfg
+share
