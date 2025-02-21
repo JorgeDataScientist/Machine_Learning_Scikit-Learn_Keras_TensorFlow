@@ -12,3 +12,7 @@ Lib/
 Include/
 pyvenv.cfg
 share/
+catboost_info/
+pmdarima/
+etc/
+Result_model/
