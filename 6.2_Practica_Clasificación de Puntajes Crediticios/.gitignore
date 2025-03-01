@@ -1,0 +1,8 @@
+# Ignorar Carpetas
+data/
+catboost_info/
+mlruns/
+modelos_Generados/
+
+# Ignorar Archivos
+logs.log
